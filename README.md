@@ -1,4 +1,4 @@
-# Game-P3
+#tbh-P3
 
   ## Description  ✏️
 
@@ -55,14 +55,15 @@ ______________________________________________________________________________
 ## Built-With
 
 >>> ORM possibly?
->>> Handlebars
+>>> Handlebars... Likely
+>>> Bootstrap... Likely
 
 - JavaScript
 - Express js 
 - Node.js
 - Postgres
 
-- Inquirer?
+>>>Inquirer?
 
 ## Tests 
 
