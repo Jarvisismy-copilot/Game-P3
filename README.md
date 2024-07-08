@@ -90,5 +90,5 @@ To access contributors github accounts click:
  ## Questions 
   
   If you have any questions, contact me directly at [here](mailto:Chelseajarvis3301@icloud.com)
-  or visit my [GitHub](https://github.com/Jarvisismy-copilot)
+  
 
